@@ -1,7 +1,25 @@
-.bar_color {
+.btn_color_purple {
     background-color: rgb(99, 24, 204);
 }
 
 .font_color_white {
     color: white;
 }
+
+.backgroud_color {
+    background-color: rgb(255, 139, 139);
+}
+
+.btn_color_green {
+    background-color: rgb(42, 206, 132);
+}
+
+.btn_color_green:hover {
+    background-color: rgb(41, 138, 95);
+}
+
+.btn_color_purple:hover {
+    background-color: rgb(64, 20, 126);
+}
+
+.pointer {cursor: pointer;}
